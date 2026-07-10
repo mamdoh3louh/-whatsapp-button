@@ -120,29 +120,29 @@
     letter-spacing: normal;
   }
 
-  .GTGjYAJSwZ {
+  .DWSxOGNeWZ {
     font-family: "Matter", "Inter", "Noto Sans TC", "Noto Sans SC", "Helvetica", "Arial", sans-serif;
     font-weight: 600 !important;
   }
 
-  .xxgPOaEFnL {
+  .sRzSyDusyT {
     display: flex;
     flex-direction: column;
     background: transparent;
   }
 
-  .mPxOyQWLiW {
+  .oovquGosrF {
     display: flex;
     flex-direction: column;
     width: 100%;
     align-items: flex-end;
   }
 
-  :host([position="left"]) .mPxOyQWLiW {
+  :host([position="left"]) .oovquGosrF {
     align-items: flex-start;
   }
 
-  .qcsQciZWOY pre {
+  .MZIWdWtqTC pre {
     font-family: 'Inter', 'Noto Sans TC', 'Noto Sans SC', 'Helvetica', 'Arial', sans-serif !important;
     white-space: pre-wrap !important;
     background: white !important;
@@ -153,13 +153,13 @@
     padding: 0px !important;
   }
 
-  .qnHmibkffk {
+  .krZNaznEGy {
     width: 48px;
     height: 48px;
     border-radius: 500px;
   }
 
-  .qcsQciZWOY {
+  .MZIWdWtqTC {
     font-family: 'Inter', 'Noto Sans TC', 'Noto Sans SC', 'Helvetica', 'Arial', sans-serif;
     margin-bottom: 16px !important;
     display: none;
@@ -173,11 +173,11 @@
     width: calc(100vw - 60px);
   }
 
-  .qcsQciZWOY.open {
+  .MZIWdWtqTC.open {
     display: grid;
   }
 
-  .YCUfUDTVAB {
+  .aaYKeNsLsH {
     padding: 16px 24px;
     display: flex;
     align-items: flex-start;
@@ -185,7 +185,7 @@
     background-color: var(--color-whatsapp-green-dark) !important;
   }
 
-  .FbyiuNfkKZ {
+  .yIlgNptSSm {
     flex-direction: column;
     position: relative;
     display: flex;
@@ -195,7 +195,7 @@
     padding: 24px;
   }
 
-  .lsbugARJeE {
+  .QwCdZnYwDN {
     z-index: 10;
     display: flex;
     height: max-content;
@@ -208,7 +208,7 @@
     padding: 10px 18px;
   }
 
-  .LMgAIpRhcf {
+  .gJWosUSCKO {
     z-index: 50;
     display: flex;
     width: 100%;
@@ -217,12 +217,12 @@
     flex-direction: column;
   }
 
-  .EzZhMFlXPX:hover {
+  .JCnmADmAON:hover {
     opacity: 80%;
     transition: 0.3s;
   }
 
-  .EzZhMFlXPX {
+  .JCnmADmAON {
     cursor: pointer;
     justify-content: center;
     border-width: 0;
@@ -235,26 +235,26 @@
     background-color: var(--color-whatsapp-green-light) !important;
   }
 
-  .WwXgskZVZF {
+  .PMMgvPHImx {
     position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
   }
 
-  .dOErvAJCuL {
+  .nzKvhsUZcp {
     color: white;
     font-size: 16px !important;
     padding-left: 8px;
     margin: 0;
   }
 
-  .HcwtFszBYt:hover {
+  .ijcDuqcBWj:hover {
     opacity: 80%;
     transition: 0.3s;
   }
 
-  .HcwtFszBYt {
+  .ijcDuqcBWj {
     cursor: pointer;
     justify-content: center;
     border-width: 0;
@@ -266,77 +266,77 @@
     height: auto;
   }
 
-  :host([position="left"]) .HcwtFszBYt {
+  :host([position="left"]) .ijcDuqcBWj {
     align-self: flex-start;
   }
 
-  :host([position="right"]) .HcwtFszBYt {
+  :host([position="right"]) .ijcDuqcBWj {
     align-self: flex-end;
   }
 
-  .uYnOUDGlFm {
+  .UoIHWwdCkm {
     padding: 9px;
   }
 
-  .KLcixbtHKq {
+  .mBJzNXciYk {
     padding: 13px;
   }
 
-  .CrsXVjtkXS {
+  .XSMyhQnkiv {
     padding: 17px;
   }
 
-  .CUgTIlaWyf {
+  .hFKVbEeXcv {
     padding-right: 40px !important;
     padding-left: 40px !important;
   }
 
-  .sJKAPGdCbP {
+  .yDUjRCYxLv {
     position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
   }
 
-  .lJDlSVppNX {
+  .ugPZsLRaZL {
     cursor: pointer;
   }
 
-  .sbWpqHsvrY {
+  .qYZmnulZEu {
     margin-left: 8px;
   }
 
-  .LKOSOXjUXN {
+  .dTAhrwLLDn {
     color: white;
     font-size: 16px !important;
     margin-top: 0;
     margin-bottom: 0;
   }
 
-  .hSIySVuWYW {
+  .oiOQcMtRTe {
     color: hsl(209 77% 60%) !important;
     text-decoration: none;
   }
 
-  .ZOdcEuDtYi {
+  .yZLQzQuzVn {
     display: inline-block;
     position: relative;
     top: 2px;
   }
 
-  .ZOdcEuDtYi svg {
+  .yZLQzQuzVn svg {
     margin-right: 6px;
     margin-bottom: 1px;
   }
 
-  .GrCLhZISVj {
+  .TnFYtejfRQ {
     margin-top: 12px;
     margin-bottom: 0;
     text-align: center;
     font-size: 16px !important;
   }
 
-  .xrghUqmEix {
+  .dXAGrSqnBX {
     font-family: 'Inter', 'Noto Sans TC', 'Noto Sans SC', 'Helvetica', 'Arial', sans-serif;
     align-self: stretch;
     width: 100%;
@@ -344,7 +344,7 @@
     background: transparent;
   }
 
-  .FOBtRbQpeh {
+  .yjkDlCaYCp {
     margin: 14px 0;
     text-align: right;
     padding-right: 12px;
@@ -353,37 +353,37 @@
     background: transparent;
   }
 
-  :host([position="left"]) .FOBtRbQpeh {
+  :host([position="left"]) .yjkDlCaYCp {
     text-align: left;
   }
 
-  .WhJQZtxsXO {
+  .XOYhtDJCzp {
     position: relative;
     display: inline-block;
     top: 1px;
   }
 
-  .zdjEyzRHEt {
+  .bKdJOiXBJn {
     color: hsl(209 77% 60%) !important;
     text-decoration: none;
   }
 
-  #eHVIllZmHe {
+  #zpdmwHGATu {
     margin-inline-end: 0.25rem;
   }
 
-  .gMOHbZQQec {
+  .SJkdtKOIBm {
     margin-inline-end: 0.25rem;
   }
 
-  .qJxsoHdWhm {
+  .DGYdpamWFa {
     z-index: 10;
     width: 100%;
     display: flex;
     justify-content: flex-end;
   }
 
-  .KugTbySzDu {
+  .SXQgXXLmqL {
     display: flex;
     background-color: #dcf7c5 !important;
     margin-top: 16px;
@@ -396,42 +396,42 @@
     font-weight: normal !important;
   }
 
-  .lsbugARJeE::-webkit-scrollbar {
+  .QwCdZnYwDN::-webkit-scrollbar {
     width: 4px !important;
     border-radius: 20px !important;
   }
 
-  .lsbugARJeE::-webkit-scrollbar-track {
+  .QwCdZnYwDN::-webkit-scrollbar-track {
     border-radius: 10px !important;
   }
 
-  .lsbugARJeE::-webkit-scrollbar-thumb {
+  .QwCdZnYwDN::-webkit-scrollbar-thumb {
     background: #c8c8c8 !important;
     border-radius: 10px !important;
   }
 
-  .KugTbySzDu::-webkit-scrollbar {
+  .SXQgXXLmqL::-webkit-scrollbar {
     width: 4px !important;
     border-radius: 20px !important;
   }
 
-  .KugTbySzDu::-webkit-scrollbar-track {
+  .SXQgXXLmqL::-webkit-scrollbar-track {
     border-radius: 10px !important;
   }
 
-  .KugTbySzDu::-webkit-scrollbar-thumb {
+  .SXQgXXLmqL::-webkit-scrollbar-thumb {
     background: #c8c8c8 !important;
     border-radius: 10px !important;
   }
 
-  .NvaiwfoMfE {
+  .HHgfIzixOr {
     margin: 0;
     font-size: 14px !important;
     line-height: 18px !important;
     color: white !important;
   }
 
-  .MXyzspdaGK {
+  .TAyzZCDOnK {
     font-family: "Matter", "Inter", "Noto Sans TC", "Noto Sans SC", "Helvetica", "Arial", sans-serif;
     font-size: 20px !important;
     font-weight: 600 !important;
@@ -441,7 +441,7 @@
     padding-bottom: 0 !important;
   }
 
-  .dgenobvkQw {
+  .IelnZtsBTI {
     font-family: "Inter", "Noto Sans TC", "Noto Sans SC", "Helvetica", "Arial", sans-serif;
     font-size: 16px !important;
     font-weight: 700 !important;
@@ -451,62 +451,53 @@
     min-height: 17px !important;
   }
 </style>
-  <div class="xxgPOaEFnL">
-    <div class="qcsQciZWOY" id="wa-chat-window">
-      <div class="YCUfUDTVAB">
+  <div class="sRzSyDusyT">
+    <div class="MZIWdWtqTC" id="wa-chat-window">
+      <div class="aaYKeNsLsH">
         <div style="display:flex;width:100%">
-          <img alt="logo" class="qnHmibkffk" id="wa-brand-image"/>
+          <img alt="logo" class="krZNaznEGy" id="wa-brand-image"/>
           <div style="padding-left:8px;display:flex;flex-direction:column;color:white">
-            <p class="MXyzspdaGK" id="wa-brand-name-header"></p>
-            <p class="NvaiwfoMfE" id="wa-brand-subtitle"></p>
+            <p class="TAyzZCDOnK" id="wa-brand-name-header"></p>
+            <p class="HHgfIzixOr" id="wa-brand-subtitle"></p>
           </div>
         </div>
-        <div class="lJDlSVppNX" id="lJDlSVppNX">
+        <div class="ugPZsLRaZL" id="ugPZsLRaZL">
           <svg viewBox="0 0 15 14" fill="#000" xmlns="http://www.w3.org/2000/svg" width="20" height="20" style="background-color:transparent;fill:white;color:white">
   <path d="m2.674.569.106.093 4.754 4.754L12.288.662a1.12 1.12 0 0 1 1.678 1.48l-.094.105L9.118 7l4.754 4.753a1.12 1.12 0 0 1-1.479 1.678l-.105-.093-4.754-4.754-4.754 4.754a1.12 1.12 0 0 1-1.678-1.479l.093-.105L5.95 7 1.195 2.247A1.12 1.12 0 0 1 2.675.569Z"></path>
 </svg>
         </div>
       </div>
-      <div class="FbyiuNfkKZ">
-        <div class="lsbugARJeE">
-          <p class="dgenobvkQw" id="dgenobvkQw"></p>
+      <div class="yIlgNptSSm">
+        <div class="QwCdZnYwDN">
+          <p class="IelnZtsBTI" id="IelnZtsBTI"></p>
           <pre id="wa-welcome-message"></pre>
         </div>
-        <div class="qJxsoHdWhm" id="wa-prefill-section" style="display:none">
-          <div class="KugTbySzDu" id="wa-prefill-message"></div>
+        <div class="DGYdpamWFa" id="wa-prefill-section" style="display:none">
+          <div class="SXQgXXLmqL" id="wa-prefill-message"></div>
         </div>
         <img style="max-width:100%;top:0;left:0;position:absolute;object-fit:cover" alt="WhatsApp Background" src="https://sleekflow.io/static/images/wts-bg.jpg"/>
       </div>
-      <div class="LMgAIpRhcf">
+      <div class="gJWosUSCKO">
         <a rel="noopener noreferrer" target="_blank" style="text-decoration:none;width:100%" id="wa-whatsapp-link">
-          <button class="EzZhMFlXPX">
-            <div class="WwXgskZVZF">
+          <button class="JCnmADmAON">
+            <div class="PMMgvPHImx">
               <svg viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg" width="22" height="22">
   <path d="m.76 21.24 1.412-5.12A10.324 10.324 0 0 1 .76 10.93C.76 5.35 5.35.76 10.964.76 16.58.76 21.24 5.35 21.24 10.93c0 5.578-4.661 10.31-10.276 10.31-1.765 0-3.46-.565-4.978-1.413L.76 21.24Z" fill="#EDEDED"></path>
   <path d="m6.268 17.991.318.177c1.307.812 2.825 1.306 4.414 1.306 4.626 0 8.474-3.848 8.474-8.545 0-4.696-3.848-8.404-8.51-8.404-4.66 0-8.439 3.743-8.439 8.404 0 1.624.46 3.213 1.307 4.555l.212.318-.812 2.966 3.036-.777Z" fill="#25D366"></path>
   <path d="m8.245 6.198-.671-.036a.802.802 0 0 0-.565.212c-.318.283-.848.812-.989 1.519-.247 1.059.141 2.33 1.06 3.601.918 1.271 2.683 3.32 5.79 4.202.989.283 1.766.106 2.402-.282.494-.318.812-.812.918-1.342l.105-.494a.355.355 0 0 0-.176-.389l-2.225-1.024a.337.337 0 0 0-.423.106l-.883 1.13a.275.275 0 0 1-.283.07c-.6-.211-2.613-1.059-3.707-3.177-.036-.106-.036-.212.035-.283l.848-.953c.07-.106.105-.247.07-.353L8.527 6.41a.308.308 0 0 0-.282-.212Z" fill="#FEFEFE"></path>
 </svg>
-              <p class="dOErvAJCuL GTGjYAJSwZ" id="wa-call-to-action"></p>
+              <p class="nzKvhsUZcp DWSxOGNeWZ" id="wa-call-to-action"></p>
             </div>
           </button>
         </a>
         
-        <p class="GrCLhZISVj" data-nosnippet>
-          <span>
-            <span class="ZOdcEuDtYi">
-              <svg width="10" height="14" viewBox="0 0 10 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M5.84653 0.0360377C6.13974 0.138097 6.33912 0.438354 6.33912 0.777828V4.66669L9.15651 4.66669C9.41915 4.66669 9.65997 4.82804 9.78125 5.08527C9.90254 5.34251 9.88415 5.65289 9.73354 5.89048L4.80311 13.6682C4.62681 13.9463 4.30753 14.066 4.01433 13.964C3.72113 13.8619 3.52174 13.5616 3.52174 13.2222L3.52174 9.33331H0.704349C0.441715 9.33331 0.200895 9.17196 0.0796083 8.91473C-0.0416787 8.65749 -0.0232851 8.34711 0.127325 8.10952L5.05775 0.331805C5.23405 0.0536972 5.55333 -0.0660216 5.84653 0.0360377Z" fill="#FFA800" />
-</svg>
-            </span>
-
-          </span>
-        </p>
+   
         
       </div>
     </div>
-    <div class="mPxOyQWLiW">
-      <button class="HcwtFszBYt" id="HcwtFszBYt">
-        <div class="sJKAPGdCbP">
+    <div class="oovquGosrF">
+      <button class="ijcDuqcBWj" id="ijcDuqcBWj">
+        <div class="yDUjRCYxLv">
           <div id="wa-button-icon">
             <svg viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg" width="22" height="22">
   <path d="m.76 21.24 1.412-5.12A10.324 10.324 0 0 1 .76 10.93C.76 5.35 5.35.76 10.964.76 16.58.76 21.24 5.35 21.24 10.93c0 5.578-4.661 10.31-10.276 10.31-1.765 0-3.46-.565-4.978-1.413L.76 21.24Z" fill="#EDEDED"></path>
@@ -514,19 +505,11 @@
   <path d="m8.245 6.198-.671-.036a.802.802 0 0 0-.565.212c-.318.283-.848.812-.989 1.519-.247 1.059.141 2.33 1.06 3.601.918 1.271 2.683 3.32 5.79 4.202.989.283 1.766.106 2.402-.282.494-.318.812-.812.918-1.342l.105-.494a.355.355 0 0 0-.176-.389l-2.225-1.024a.337.337 0 0 0-.423.106l-.883 1.13a.275.275 0 0 1-.283.07c-.6-.211-2.613-1.059-3.707-3.177-.036-.106-.036-.212.035-.283l.848-.953c.07-.106.105-.247.07-.353L8.527 6.41a.308.308 0 0 0-.282-.212Z" fill="#FEFEFE"></path>
 </svg>
           </div>
-          <p class="LKOSOXjUXN GTGjYAJSwZ" id="wa-button-label"></p>
+          <p class="dTAhrwLLDn DWSxOGNeWZ" id="wa-button-label"></p>
         </div>
       </button>
       
-      <div class="xrghUqmEix" data-nosnippet>
-        <p class="FOBtRbQpeh">
-          <span class="WhJQZtxsXO">
-            <svg width="10" height="14" viewBox="0 0 10 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M5.84653 0.0360377C6.13974 0.138097 6.33912 0.438354 6.33912 0.777828V4.66669L9.15651 4.66669C9.41915 4.66669 9.65997 4.82804 9.78125 5.08527C9.90254 5.34251 9.88415 5.65289 9.73354 5.89048L4.80311 13.6682C4.62681 13.9463 4.30753 14.066 4.01433 13.964C3.72113 13.8619 3.52174 13.5616 3.52174 13.2222L3.52174 9.33331H0.704349C0.441715 9.33331 0.200895 9.17196 0.0796083 8.91473C-0.0416787 8.65749 -0.0232851 8.34711 0.127325 8.10952L5.05775 0.331805C5.23405 0.0536972 5.55333 -0.0660216 5.84653 0.0360377Z" fill="#FFA800" />
-</svg>
-          </span>
-         </p>
-      </div>
+
       
     </div>
   </div>
@@ -559,8 +542,8 @@
       }
       connectedCallback() {
         (this.chatWindow = this.shadowRoot.querySelector('#wa-chat-window')),
-          (this.ctaButton = this.shadowRoot.querySelector('#HcwtFszBYt')),
-          (this.closeBtn = this.shadowRoot.querySelector('#lJDlSVppNX')),
+          (this.ctaButton = this.shadowRoot.querySelector('#ijcDuqcBWj')),
+          (this.closeBtn = this.shadowRoot.querySelector('#ugPZsLRaZL')),
           (this.whatsappLink =
             this.shadowRoot.querySelector('#wa-whatsapp-link')),
           (this.buttonLabel =
@@ -573,7 +556,7 @@
           )),
           (this.brandSubtitle =
             this.shadowRoot.querySelector('#wa-brand-subtitle')),
-          (this.chatTitle = this.shadowRoot.querySelector('#dgenobvkQw')),
+          (this.chatTitle = this.shadowRoot.querySelector('#IelnZtsBTI')),
           (this.welcomeMessageText = this.shadowRoot.querySelector(
             '#wa-welcome-message',
           )),
@@ -586,7 +569,7 @@
           (this.callToAction =
             this.shadowRoot.querySelector('#wa-call-to-action')),
           (this.poweredByText = this.shadowRoot.querySelector(
-            '#eHVIllZmHe',
+            '#zpdmwHGATu',
           )),
           this.ctaButton.addEventListener('click', this._boundToggle),
           this.closeBtn.addEventListener('click', this._boundClose),
@@ -628,27 +611,27 @@
           this.callToAction && (this.callToAction.textContent = i),
           this.buttonLabel &&
             ((this.buttonLabel.textContent = t)
-              ? this.buttonLabel.classList.add('sbWpqHsvrY')
+              ? this.buttonLabel.classList.add('qYZmnulZEu')
               : this.buttonLabel.classList.remove(
-                  'sbWpqHsvrY',
+                  'qYZmnulZEu',
                 )),
           this.ctaButton &&
             (this.ctaButton.classList.remove(
-              'uYnOUDGlFm',
-              'KLcixbtHKq',
-              'CrsXVjtkXS',
-              'CUgTIlaWyf',
+              'UoIHWwdCkm',
+              'mBJzNXciYk',
+              'XSMyhQnkiv',
+              'hFKVbEeXcv',
             ),
             this.ctaButton.classList.add(
               {
-                regular: 'uYnOUDGlFm',
-                medium: 'KLcixbtHKq',
-                large: 'CrsXVjtkXS',
-                small: 'uYnOUDGlFm',
-              }[n] || 'CrsXVjtkXS',
+                regular: 'UoIHWwdCkm',
+                medium: 'mBJzNXciYk',
+                large: 'XSMyhQnkiv',
+                small: 'UoIHWwdCkm',
+              }[n] || 'XSMyhQnkiv',
             ),
             t) &&
-            this.ctaButton.classList.add('CUgTIlaWyf'),
+            this.ctaButton.classList.add('hFKVbEeXcv'),
           this.buttonIconContainer &&
             ((this.buttonIconContainer.style.width = r + 'px'),
             (this.buttonIconContainer.style.height = r + 'px'),
